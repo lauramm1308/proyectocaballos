@@ -1,3 +1,3 @@
 # proyectocaballos
-aprendieno sobre algunas razas de caballos
+aprendiendo sobre algunas razas de caballos
 es una página web
